@@ -1,3 +1,9 @@
+###############################
+# Learn Python Coding in 2023
+# By Mohamed Mahmoud
+###############################
+
+# Clear the terminal screen
 import os
 os.sytem('clear')
 
